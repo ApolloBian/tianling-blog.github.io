@@ -1,0 +1,2 @@
+修改主页：_config.yml
+disqus: include/comments.html

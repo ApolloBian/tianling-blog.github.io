@@ -1,0 +1,51 @@
+# Basic
+title: TIANLING's Den
+subtitle: 上善若水，人淡如竹
+welcome_message: <a href="https://github.com/ApolloBian" target="_blank"> 我的GitHub。不过最近似乎也没有什么特别多的commit呢。</a>
+description: 嗨，我是天灵，一名来自中国的 iOS / Unity 开发者。Vim User 。现居上海，就读于SJTU。喜欢做一些很有意思的小项目。如果你也是iOS developer，欢迎一起聊聊^_^
+creator: <a href="http://tianling-blog.github.io">@TIANLING</a>
+
+url: "http://tianling-blog.github.io"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: plain
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: slate
+
+blog_button:
+    title: 博客
+    description: 访问博客
+
+nav:
+    - {title: 项目, description: 我的项目, url: '/my_projects/'}
+    - {title: 关于, description: 了解更多关于我, url: '/about_me/'}
+#    - {title: 订阅, description: 邮件订阅本站, url: 'http://tianling-blog.github.io'}
+    - {title: Archive, description: 归档, url: '/archive/'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: TianlingSJTU
+    duoshuo: tianling-blog
+# Social
+social:
+    weibo: 5569893657
+    github: ApolloBian
+    twitter: SpadeAce5414
+    gplus: 116043193699215342572
+    mail: bian_tianling@icloud.com
+
+# Google Analytics
+ga:
+    id: UA-78263732-1
+    host: tianling-blog.github.io
