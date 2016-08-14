@@ -3,5 +3,4 @@ Coding is interesting stuff. In this archival page, I will put some useful codes
 
 I’m a lousy programmer though. If you find some of my posts are not good as you expected, please [send me an email](mailto:bian_tianling@sjtu.edu.cn).
 
-## [Useful Data Sets](/coding/datasets/)
 
